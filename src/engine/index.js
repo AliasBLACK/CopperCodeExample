@@ -38,3 +38,4 @@ export { Interface, Frame, Panel, Text, Button, fontMultiplier } from './interfa
 export { Tween, TweenManager, Easing } from './tween.js'
 export { Picker, readMouseRay, hitsNode, rayPlaneHit, setRayLength } from './picking.js'
 export { pickPrefab, turnPrefab } from './prefabs.js'
+export { NavMesh } from './navmesh.js'
